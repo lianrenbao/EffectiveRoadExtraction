@@ -27,13 +27,13 @@ We post some test cases here to demonstrate the effective of our method. The yel
     <img src='images/image11.png?raw=true' />
 </p>
 <p>
-    <img src='images/image13.png?raw=true' />
+    <img src='images/image13.jpg?raw=true' />
 </p>
 <p>
-    <img src='images/image20.png?raw=true' />
+    <img src='images/image20.jpg?raw=true' />
 </p>
 <p>
-    <img src='images/image34.png?raw=true' />
+    <img src='images/image34.jpg?raw=true' />
 </p>
 <p>
     <img src='images/image92.png?raw=true' />
