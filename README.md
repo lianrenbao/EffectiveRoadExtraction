@@ -9,16 +9,16 @@ We use [Google Earth](http://www.escience.cn/people/guangliangcheng/Datasets.htm
 
 #### Extract demo
 The videos show the procedure of some test cases.  
-<a href='videos/image35.mp4?raw=true'/>Video 1. A tracking process on a image35 (523KB).(click here)</a>
+<a href='videos/image35.mp4?raw=true'/>Video 1. A tracking process on a image35 (1187KB).(click here)</a>
 <br />
 <br />
-<a href='videos/image36.mp4?raw=true'/>Video 2. A tracking process on a image36 (302KB).(click here)</a>
+<a href='videos/image36.mp4?raw=true'/>Video 2. A tracking process on a image36 (558KB).(click here)</a>
 <br />
 <br />
-<a href='videos/image102.mp4?raw=true'/>Video 1. A tracking process on a image102 (925KB).(click here)</a>
+<a href='videos/image102.mp4?raw=true'/>Video 1. A tracking process on a image102 (1157KB).(click here)</a>
 <br />
 <br />
-<a href='videos/image130.mp4?raw=true'/>Video 2. A tracking process on a image130 (1034KB).(click here)</a>
+<a href='videos/image130.mp4?raw=true'/>Video 2. A tracking process on a image130 (1112KB).(click here)</a>
 
 The demonstrations also show that we do not need to set any hyperparameter to run our algorithm.
 #### Extraction results
