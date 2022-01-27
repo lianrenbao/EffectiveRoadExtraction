@@ -56,7 +56,7 @@ We post some test cases here to demonstrate the effective of our method. The yel
 
 <h3> Times Consuming  </h3>
 
-The experimental operating environment is a 4-core 1.8GHz i7 processor, a notebook with 16G memory, the implementation language is Python3.7, and the iteration part of the three algorithms is accelerated by numba  
+The experimental operating environment is a 4-core 1.8GHz i7 processor, a notebook with 16G memory, the implementation language is Python3.7, and the iteration parts of the three algorithms are all accelerated by numba  
 We Extract three road centerlines of different lengths. As shown in below, the three road sections are AB, AC, and AD, and the road lengths are about 480 meters, 990 meters, and 1310 meters, respectively.
 <p>
     <img src='images/image88-2.png?raw=true' />
