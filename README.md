@@ -74,6 +74,14 @@ The data shows that the proposed algorithm takes almost the same time to extract
 If our work has any inspiration for your research, please cite our paper:
 
 <pre>
-    The paper is undergoing review
-
+    @ARTICLE{9762944,  
+        author={Lian, Renbao and Zhang, Zhenmin and Zou, Changzhong and Huang, Liqin},  
+        journal={IEEE Geoscience and Remote Sensing Letters},   
+        title={An Effective Road Centerline Extraction Method From VHR},   
+        year={2022},  
+        volume={19},  
+        number={},  
+        pages={1-5},  
+        doi={10.1109/LGRS.2022.3170307}
+    }
 </pre>
