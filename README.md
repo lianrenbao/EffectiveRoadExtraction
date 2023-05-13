@@ -8,7 +8,7 @@ We use [Google Earth](http://www.escience.cn/people/guangliangcheng/Datasets.htm
 ### Experiment results
 
 #### Extract demo
-The videos show the procedure of some test cases.  
+The videos show the procedure of some test cases. 
 <a href='videos/image35.mp4?raw=true'/>Video 1. A tracking process on a image35 (1187KB).(click here)</a>
 <br />
 <br />
@@ -24,7 +24,7 @@ The demonstrations also show that we do not need to set any hyperparameter to ru
 #### Extraction results
 We post some test cases here to demonstrate the effective of our method. The yellow circles in the results are the automatic estimated circular templates. Each of them is estimated according to manual seed.
 <p>
-    <img src='images/image1.jpg?raw=true' />
+    <img src='images/image1.jpeg?raw=true' />
 </p>
 <p>
     <img src='images/image8.png?raw=true' />
